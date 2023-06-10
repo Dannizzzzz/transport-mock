@@ -1,0 +1,54 @@
+{
+  "course": [
+    {
+      "id": 1001,
+      "course_name": "公拉农题队始果动",
+      "autor": "高利贷",
+      "college": "先了队叫及便",
+      "category_Id": 2,
+      "detail": {
+        "title": "xxx",
+        "data": [
+          {
+            "xx": "oo"
+          }
+        ]
+      }
+    },
+    {
+      "course_name": "vue3",
+      "autor": "袁明源",
+      "college": "金并即总变史2323",
+      "category_Id": 2,
+      "id": 1002
+    },
+    {
+      "course_name": "vue2",
+      "autor": "袁明源",
+      "college": "金并即总变史2323",
+      "category_Id": 2,
+      "id": 1003
+    },
+    {
+      "course_name": "vue4",
+      "autor": "袁明源",
+      "college": "金并即总变史2323",
+      "category_Id": 2,
+      "id": 1004
+    },
+    {
+      "course_name": "vue5",
+      "autor": "袁明源",
+      "college": "金并即总变史2323",
+      "category_Id": 2,
+      "id": 1005
+    },
+    {
+      "course_name": "vue6",
+      "autor": "袁明源666",
+      "college": "金并即总变史666",
+      "category_Id": 2,
+      "id": 1006
+    }
+  ]
+}
